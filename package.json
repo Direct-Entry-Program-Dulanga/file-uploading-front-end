@@ -8,9 +8,8 @@
     "type": "git",
     "url": "git+https://github.com/Direct-Entry-Program-Dulanga/file-uploading-front-end.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dulanga Nimesha",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Direct-Entry-Program-Dulanga/file-uploading-front-end/issues"
   },
