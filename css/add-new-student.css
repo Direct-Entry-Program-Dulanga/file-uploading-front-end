@@ -1,0 +1,22 @@
+.form-group__required{
+    color: red;
+}
+
+.container__form-group{
+    margin: 20px;
+}
+
+.form-group__image-wrapper{
+    display: flex;
+    gap: 10px;
+}
+
+.form-group__button-container{
+    flex-direction: column;
+    display: flex;
+    gap: 10px;
+}
+
+input[type="file"]{
+    display: none;
+}
